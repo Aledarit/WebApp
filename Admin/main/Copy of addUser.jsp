@@ -14,11 +14,9 @@
 		Password: <input type="password" name="password">
 		<input type="submit" value="next">
 	</form> 
-	<h2>You can add user name and pass</h2>
+	<h2>You can add user name and pass</h2>	
+
 	<h2>give tis</h2>
 	<h2>You can add usr name and pass</h2>
-	<h3></h3>
-	<h4></h4>
-
 </body>
 </html>

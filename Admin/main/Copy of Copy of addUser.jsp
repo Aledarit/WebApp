@@ -14,8 +14,14 @@
 		Password: <input type="password" name="password">
 		<input type="submit" value="next">
 
+<<<<<<< HEAD
 		<h3>dfhdjfhjdfh flu</h3>
 
+=======
+		<h3>dfhdjfhjdfh</h3>
+
+	</form> 
+>>>>>>> refs/remotes/origin/master
 	<h2>You can add user name and pass</h2>	
 
 	<h2>give tis</h2>

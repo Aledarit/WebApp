@@ -13,14 +13,14 @@ import java.io.PrintWriter;
 
 public class AdminController extends HttpServlet {
 
-	private UserService users = UserFactory.createUserService();
+//	private UserService users = UserFactory.createUserService();
 	
 	@Override
 	public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException
 	{
 		final String mode = request.getParameter ("mode");
 		if ("add_user".equals(mode)) {
-			users.addUser(request.getParameter("user_name"), request.getParameter("password"));
+		//	users.addUser(request.getParameter("user_name"), request.getParameter("password"));
 		} else {
 			//in process
 		}

@@ -7,7 +7,7 @@
 <title>Add user</title>
 </head>
 <body>
-	<h2>You can add user</h2>
+	<h2>You can add user name and pass</h2>
 	
 	<form name="add_user_form" method="post" action="admin?mode=add_user">
 		User name: <input type="text" name="username">

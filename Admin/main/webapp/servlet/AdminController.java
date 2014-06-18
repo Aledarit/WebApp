@@ -22,7 +22,7 @@ public class AdminController extends HttpServlet {
 		if ("add_user".equals(mode)) {
 			users.addUser(request.getParameter("user_name"), request.getParameter("password"));
 		} else {
-			//nothing
+			//in process
 		}
 		request.getRequestDispatcher("addUser.jsp").forward(request, response);
 	}

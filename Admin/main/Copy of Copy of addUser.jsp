@@ -13,6 +13,7 @@
 		User name: <input type="text" name="username">
 		Password: <input type="password" name="password">
 		<input type="submit" value="next">
+		<h3>dfhdjfhjdfh friday?</h3>
 	</form> 
 	<h2>You can add user name and pass</h2>	
 

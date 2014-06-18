@@ -13,7 +13,7 @@
 		User name: <input type="text" name="username">
 		Password: <input type="password" name="password">
 		<input type="submit" value="next">
-	</form>
+	</form> 
 	<h2>You can add user name and pass</h2>
 	<h2>give tis</h2>
 	<h2>You can add usr name and pass</h2>

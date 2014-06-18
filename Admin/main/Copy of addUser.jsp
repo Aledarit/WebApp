@@ -15,7 +15,7 @@
 		<input type="submit" value="next">
 	</form>
 	<h2>You can add user name and pass</h2>
-	<h2>You can add user name and pass</h2>
+	<h2>give me times</h2>
 	<h2>You can add user name and pass</h2>
 </body>
 </html>

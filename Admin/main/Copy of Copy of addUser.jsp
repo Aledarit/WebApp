@@ -13,12 +13,9 @@
 		User name: <input type="text" name="username">
 		Password: <input type="password" name="password">
 		<input type="submit" value="next">
-<<<<<<< HEAD
+
 		<h3>dfhdjfhjdfh flu</h3>
-=======
-		<h3>dfhdjfhjdfh</h3>
->>>>>>> refs/remotes/origin/master
-	</form> 
+
 	<h2>You can add user name and pass</h2>	
 
 	<h2>give tis</h2>
